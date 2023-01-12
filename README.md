@@ -29,7 +29,8 @@ __*Meta de cursos*__
 Meta para Janeiro
 
 - [X] Fazer o curso 1
-- [ ] Fazer os cursos 2,3,4,5 e 6
+- [X] Fazer os cursos 2 e 3
+- [ ] Fazer os cursos 4, 5 e 6
 
 Task para continuar o aprimoramento:
 
