@@ -32,6 +32,19 @@ Meta para Janeiro
 - [X] Fazer os cursos 2 e 3
 - [X] Fazer os cursos 4, 5 e 6
 - [X] Sábado dia 14/01 - resolvi os 5 desafios propostos para o Bootcamp Orange Tech + | BackEnd
+- [X] Domingo dia 15/01 - Reorganização do diretorio do BootCamp Orange Tech + | BackEnd na minha máquina
+
+<!--
+Observações:
+
+Motivo: Cada um dos exercicios realizados estavam em projetos e pastas diferentes, não possuindo uma padronização e dificultando a localização dos arquivos.
+
+Modelo:
+
+DIRETORIO PRINCIPAL> DIRETORIO DO PROJETO > DIRETORIO SRC> PACKAGES(PACOTES) > ARQUIVOS COM EXTENSÃO
+
+
+-->
 
 Task para continuar o aprimoramento:
 
